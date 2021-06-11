@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+<body>
+
+<div class="article1-container">
+
+<div class="article1-style">
+
+	<h2 id="demo"></h2>
+	<div>
+		<span style="display : inline-block">	
+		<br>
+		<canvas id="canvas1" width="800" height="400" style="border: 2px solid; cursor: crosshair;"></canvas>
+		<br>
+		
+		
+		<br>
+		<button onclick="ocr.erase();">Wissen</button>
+		<button onclick="	  
+		  ocr.setOptions({language: 'en', numOfReturn: 1 });
+		  ocr.recognize();
+		">Verstuur</button>
+
+		<br>
+		<br>
+		resultaat: <span id="result1"></span>
+		 </span>
+		 <script type="text/javascript" src="handwriting.canvas.js"></script>
+		 <script type="text/javascript" defer>
+		
+		var ocr = new handwriting.Canvas(document.getElementById('canvas1'));
+		
+		ocr.setCallBack(function(data, err) {
+		  if (err) throw err;
+		  else document.getElementById("result1").innerHTML = data;
+		});
+		
+	  </script>
+	</div>
+
+</div>
+
+</body>
+</html>
