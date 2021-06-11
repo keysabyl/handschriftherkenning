@@ -5,3 +5,8 @@ https://edubits.eu/ocr/handwriting.html
 Aangezien Digitee ontwikkeld is in javascript zou ik de html-code graag herwerkt zien in pure javascript, als dit mogelijk is. 
 IK heb al pogingen ondernomen, maar slaag er niet in om de code te herschrijven in javascript.  Ik zou iemand die me hier bij wil helpen heel dankbaar zijn.
 Neem zeker contact op met patrick@keysabyl.be  als je hier schouders onder wil zetten.  Het zal je eeuwige roem bezorgen ;-)
+
+Bovenstaande twee bestanden kopieer je in een map en start je op via een web server.  Ik doe dit met de Web server for Chrome:
+https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb
+
+Ik sta versteld van de nauwkeurigheid van de app die ontwikkeld is door Google.  Ik weet ook niet of je deze gratis kunt blijven gebruiken.
