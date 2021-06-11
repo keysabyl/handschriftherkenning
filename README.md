@@ -4,7 +4,7 @@ Ik zou nu graag handschriftherkenning van de kinderen toevoegen als invoer.  Ik 
 https://edubits.eu/ocr/handwriting.html
 Aangezien Digitee ontwikkeld is in javascript zou ik de html-code graag herwerkt zien in pure javascript, als dit mogelijk is. 
 IK heb al pogingen ondernomen, maar slaag er niet in om de code te herschrijven in javascript.  Ik zou iemand die me hier bij wil helpen heel dankbaar zijn.
-Neem zeker contact op met patrick@keysabyl.be  als je hier schouders onder wilt zetten.  Het zal je eeuwige roem bezorgen ;-) en misschien zelfs een financiële vergoeding als mijn project goedgekeurd wordt door Smart Education @ Schools van Imec.  Ik heb voorlopig een oranje goedkeuring gekregen en krijg pas groen als ik onder andere dit probleem kan oplossen.
+Neem zeker contact op met patrick@keysabyl.be  als je hier jouw schouders onder wilt zetten.  Het zal je eeuwige roem bezorgen ;-) en misschien zelfs een financiële vergoeding als mijn project goedgekeurd wordt door Smart Education @ Schools van Imec.  Ik heb voorlopig een oranje goedkeuring gekregen en krijg pas groen als ik onder andere dit probleem kan oplossen.
 
 Bovenstaande twee bestanden kopieer je in een map en start je op via een web server.  Ik doe dit met de Web server for Chrome:
 https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb
